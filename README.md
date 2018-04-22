@@ -1,0 +1,2 @@
+# FizzBuzz
+It is believed that the task of "FizzBuzz" is given in America at interviews when recruiting a beginner programmer to check whether he or she has basic programming skills.  Write a program that reads two natural numbers a and b (it is guaranteed that a &lt;b), then for all numbers from a to b prints:  "Fizz" if this number is divided by 3; "Buzz" if this number is divided by 5; "FizzBuzz", if both the previous conditions are met; this number itself in the remaining cases.
